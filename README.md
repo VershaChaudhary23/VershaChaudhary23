@@ -42,6 +42,12 @@ When not coding, I enjoy exploring data trends, visualizing insights, and learni
 
 ---
 
+## ⚡ Fun Facts
+- I speak fluent **Python 🐍**, **PySpark 🔥**, and **SQL 🗃️**  
+- Coffee ☕ keeps my data pipelines flowing smoothly  
+- Data-driven problem solver always eager to learn and grow 📈
+---
+
 ## 🔭 What I'm Working On
 - Designing **robust ETL pipelines** using Databricks & PySpark 🔄  
 - Implementing **Medallion Architecture** for clean data layers (Bronze, Silver, Gold) ✨  
@@ -67,13 +73,6 @@ When not coding, I enjoy exploring data trends, visualizing insights, and learni
 
 ## 📊 GitHub Stats
 ![Versha's GitHub stats](https://github-readme-stats.vercel.app/api?username=VershaChaudhary23&show_icons=true&theme=radical)
-
----
-
-## ⚡ Fun Facts
-- I speak fluent **Python 🐍**, **PySpark 🔥**, and **SQL 🗃️**  
-- Coffee ☕ keeps my data pipelines flowing smoothly  
-- Data-driven problem solver always eager to learn and grow 📈
 
 ---
 
