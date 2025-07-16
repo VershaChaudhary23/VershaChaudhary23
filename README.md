@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Versha Chaudhary
 
-### 🚀 Data Engineer | Expert in Data Pipelines & ETL | AWS & Spark Enthusiast
+### 🚀 Data Enthusiast | Data Analytics | Expert in Data Pipelines & ETL | AWS & Spark Enthusiast
 
 ---
 
 ## 💼 About Me
-I’m a passionate Data Engineer who loves building efficient **data pipelines**, designing scalable **ETL processes**, and working with cloud technologies like **AWS** and **Databricks** to turn raw data into business insights.  
+I’m a passionate Data driven professional who loves building efficient **data pipelines**, designing scalable **ETL processes**, and working with cloud technologies like **AWS** and **Databricks** to turn raw data into business insights.  
 When not coding, I enjoy exploring data trends, visualizing insights, and learning new cloud architectures ☁️.
 
 ---
